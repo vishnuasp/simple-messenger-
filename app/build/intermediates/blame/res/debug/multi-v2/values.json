@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Projects\\SimpleMessenger-vishnuasp19\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\Projects\\SimpleMessenger-vishnuasp19\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,111",
+                        "endColumns": "52,42",
+                        "endOffsets": "105,149"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,42",
+                        "endOffsets": "103,146"
+                    }
+                }
+            ]
+        }
+    ]
+}
